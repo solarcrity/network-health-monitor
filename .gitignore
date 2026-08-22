@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Database (don't commit data)
+data/
+*.db
+
+# Logs (don't commit logs)
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
